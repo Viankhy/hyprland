@@ -1,0 +1,25 @@
+Neutral 1 - Background:
+    #20201f
+    rgb(32, 32, 31)
+    rgba(32, 32, 31, 1)
+    hsl(60, 2%, 12%)
+    hsv(60, 3%, 13%)
+
+Neutral 2 - Minimal Details
+    #61615e
+    rgb(97, 97, 94)
+    rgba(97, 97, 94, 1)
+    hsl(60, 2%, 37%)
+    hsv(60, 3%, 38%)
+
+Destaque:
+    #4F86F7
+    rgb(79, 134, 247)
+    rgba(79, 134, 247, 1)
+
+Claro:
+    #e0dfdf
+    rgb(224, 223, 223)
+    rgba(224, 223, 223, 1)
+    hsl(0, 2%, 88%)
+    hsv(0, 0%, 88%)

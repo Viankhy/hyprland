@@ -1,0 +1,23 @@
+#window {
+    background-color: rgba(32, 32, 31, 1);
+
+    border: 2px solid rgba(79, 134, 247, 1);
+}
+
+#text, #outer-box {
+    font-family: "CaskaydiaCove Nerd Font";
+    font-size: large;
+    margin: 12px;
+}
+
+#input {
+    background: none;
+    margin: -2048px;
+}
+
+#entry:selected {
+    background: linear-gradient(90deg, rgba(79, 134, 247, 0.4), rgba(32, 32, 31, 0.0));
+    border-radius: 12px;
+    color: rgba(79, 134, 247, 1);
+    outline: none;
+}

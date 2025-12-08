@@ -1,0 +1,21 @@
+window#waybar {
+    font-family: "CaskaydiaCove Nerd Font";
+    background-color: rgba(32, 32, 31, 1);
+    color: rgba(224, 223, 223, 1);
+}
+
+/* Módulos da esquerda */
+.modules-left {
+}
+
+/* Módulos do centro */
+.modules-center {
+}
+
+/* Módulos da direita */
+.modules-right {
+}
+
+label.module {
+    margin-left: 4px; margin-right: 4px;
+}

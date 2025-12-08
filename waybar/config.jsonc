@@ -1,0 +1,44 @@
+{
+    "layer": "top", // Define a posição da Waybar
+
+    // Módulos que ficam na esquerda
+    "modules-left": ["hyprland/workspaces"],
+
+    // Módulos que ficam no centro
+    "modules-center": ["clock"],
+
+    // Módulos que ficam na direita
+    "modules-right": [
+        "cpu",
+        "memory",
+        "tray",
+        "bluetooth"
+    ],
+
+    // Configurações individuais dos módulos
+    "clock": {
+        "format": "{:%H:%M:%S}", // Formato de como as horas serão exibidas (Hora, Minuto, Segundo)
+        "format-alt": "{:%a, %d. %b  %H:%M:%S}" // Alternativa, mostrando o Dia e o Mês
+    },
+
+    "memory": {
+        "interval": 1, // Intervalo de atualização
+        "format": " {percentage}% - {swapPercentage}%" // Exibe o uso da Ram e do Swap
+    },
+
+    "cpu": {
+        "interval": 1, // Intervalo de atualização
+        "format": " {usage}%" // Exibe o uso da CPU
+    },
+
+    "hyprland/workspaces": {
+        "format": "{icon}", // Define como as workspaces devem ser exibidas
+        "show-special": true, "special-visible-only": true, // Exibe a workspace especial apenas quando estiver em tela
+
+        "format-icons": {
+            "special": "󰣑", // Workspace especial
+            "active": "󰻃", // Workspace focada
+            "default": "󰄰" // Workspaces desfocadas
+        }
+    }
+}

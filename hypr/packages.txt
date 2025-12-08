@@ -1,0 +1,79 @@
+> PACMAN
+    # Drivers & API's
+    |   lib32-nvidia-utils  - Bibliotecas 32bit do Driver base
+    |   lib32-opencl-nvidia - # VERSÃO 32bit OPENCL #
+    |   libva-nvidia-driver - Aceleração de Hardware (NVDEC)
+    |   linux-zen-headers   - Kernel p/ compilação
+    |   nvidia-open-dkms    - Driver base proprietário com Kernel aberto
+    |   nvidia-opencl       - # PESQUISAR #
+    |   nvidia-settings     - Fornece menu de configuração para NVIDIA
+    |   nvidia-utils        - Bibliotecas do Driver base
+
+    |   gamemode                - Melhora o uso do Hardware quando estiver in-game
+    |   meson                   - Componente para buildar programas da fonte
+    |   openal                  - Relacionado a audio # PESQUISAR #
+    |   power-profiles-daemon   - Planos de Energia
+    |   zram-generator          - Zram
+    |   plait                   - Playit.gg, serve pra hospedar servidor gaymers
+    |   ufw                     - Firewall
+    |	exfat-utils		        - Suporte ao formato exFAT
+    |   ntfs-3g                 - Suporte ao formato ntfs
+
+    | jdk21-openjdk - Kit de desenvolvimento java 21
+    | jdk17-openjdk - Kit de desenvolvimento java 17
+    | jdk8-openjdk  - Kit de desenvolvimento java 8
+
+    |   network-manager-applet  - Gerenciador gráfico de Redes
+
+    # Diversos
+    |   steam           - Steam, jogos
+    |   prismlauncher   - Minecraft
+
+    # Ferramentas
+    |   btop                - Monitor do Sistema (TUI)
+    |   code                - Editor de texto (GUI)
+    |   fastfetch           - Exibe informações do Sistema (TUI)
+    |   fish                - Shell para terminal
+    |   gimp                - Editor de imagem
+    |   git                 - Git, clone, etc.
+    |   grim                - Captura de tela
+    |   kitty               - Emulador de Terminal (GUI)
+    |   thunar              - Explorador de arquivos
+    |   tumbler             - Suporte a thumbnails no thunar
+    |   neovim              - Editor de texto (TUI)
+    |   nwg-look            - Gerenciador de temas GTK (GUI)
+    |   satty               - Assistente para Screenshots
+    |   waybar              - Barra de notificação
+    |   wofi                - APP Launcher
+    |   gnome-characters    - Emojis e Simbolos
+    |       # Suporte
+    |       |   7zip                    - Suporte a arquivos .7z
+    |       |   gnome-keyring           - Gerenciador de senhas (System)
+    |       |   unrar                   - Suporte a arquivos .rar
+    |       |   xdg-portal-desktop-gtk  - File-picker para aplicações
+    |       |   zip, unzip              - Suporte a arquivos .zip
+
+    # Hyprland
+    |   Hyprland                    - Pacote principal
+    |   hyprpaper                   - Papel de parede
+    |   hyprpolkitagent             - Kit de autenticação
+    |   xdg-desktop-portal-hyprland - Permite a interação entre Desktope Aplicação
+
+    # Fontes
+    |   noto-fonts
+    |   noto-fonts-cjk
+    |   noto-fonts-emoji
+    |   noto-fonts-extra
+    |   ttf-cascadia-code-nerd
+    |   ttf-nerd-fonts-symbols
+
+> FLATPAK
+    # Aplicações
+    |   pinta   - Editor de imagens
+    |   sober   - Roblox
+
+> YAY
+    # Aplicações
+    |   ente-auth-bin               - 2FA Ente
+    |   vesktop-bin                 - Discord
+    |   zen-browser-bin             - Navegador
